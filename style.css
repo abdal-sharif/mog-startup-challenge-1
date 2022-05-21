@@ -1,0 +1,17 @@
+
+
+.about{
+    width: 200px;
+    height: 300px;
+    clip-path: circle();
+    left: 12px;
+}
+
+.menu ul li{
+    left: 5px;
+}
+
+.back{
+    top: 25px;
+    font-size: 26px;
+}
